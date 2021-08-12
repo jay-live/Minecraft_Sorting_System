@@ -318,7 +318,7 @@ Anything relating to tools
 * Nametag
 
 ----------------
-## Valuables (NOT AUTOMATED)
+## Valuables
 Anything that's very rare
 
 * Ancient Debris

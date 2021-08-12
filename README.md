@@ -28,6 +28,8 @@ Anything relating to armor
 * Chestplate
 * Leggings
 * Boots
+* Elytra
+* Turtle Shell
 
 ----------------
 ## Brewing
@@ -41,6 +43,8 @@ Anything relating to brewing
 * Fermented Spider Eye
 * Blaze Powder
 * Glistering Melon Slice
+* Dragon's Breath
+* Potions
 
 ----------------
 ## Books
@@ -66,7 +70,7 @@ Anything that is saved in massive quantities
 
 ----------------
 ## Colorful
-Anything that comes in dye-color variants
+Anything that comes in colored variants
 
 * 16x Dye
 * 16x Bed
@@ -77,15 +81,18 @@ Anything that comes in dye-color variants
 * Terracotta
 * 16x Terracotta + Glazed
 * 16x Concrete + Powder
+* 16x Banner + Patterns + Different Banners
+* 5x Coral Block + Dead
+* 10x Coral + Dead
 
 ----------------
 ## End
 Anything relating to the End dimension
 
 * End Stone
-* End Stone Bricks
+* End Stone Bricks + Slab + Stairs + Wall
 * End Rod
-* Chorus Fruit
+* Chorus Fruit + Popped
 * Purpur Block + Pillar + Stairs + Slab
 
 ----------------
@@ -108,6 +115,10 @@ Anything relating to food
 * Pumpkin Pie
 * Rabbit + Cooked + Stew
 * Mutton + Cooked
+* Beetroot + Soup
+* Dried Kelp
+* Suspicious Stew
+* Sweet Berries
 
 ----------------
 ## Minerals
@@ -133,9 +144,9 @@ Anything relating to mob drops
 * Egg
 * Ink Sac
 * Rabbit's Foot + Hide
+* Scute
 
 ---> Hostile
-* Arrow
 * Bone + Block
 * Slimeball + Block
 * String
@@ -149,6 +160,9 @@ Anything relating to mob drops
 * Magma Cream
 * Eye Of Ender
 * Prismarine Shards + Crystal
+* Phantom Membrane
+* Nautilus Shell
+* Wither Rose
 
 ---> Skulls
 
@@ -166,7 +180,7 @@ Anything relating to nature
 * Grass
 * Fern
 * Dead Bush
-* Dandelion, Poppy, Blue Orchid, Alium, Azure Bluet, Red Tulip, Orange Tulip, White Tulip, Pink Tulip, Oxeye Daisy
+* Dandelion, Poppy, Blue Orchid, Alium, Azure Bluet, Red Tulip, Orange Tulip, White Tulip, Pink Tulip, Oxeye Daisy, Cornflower, Lily of the Valley
 * Brown & Red Mushroom
 * Wheat
 * Cactus
@@ -184,6 +198,12 @@ Anything relating to nature
 * Flint
 * Bone Meal
 * Cocoa Bean
+* Beetroot Seeds
+* Sea Grass
+* Kelp
+* Turtle Egg
+* Sea Pickle
+* Bamboo
 
 ----------------
 ## Nether
@@ -192,15 +212,15 @@ Anything relating to the Nether dimension
 * Crimson Nylium
 * Warped Nylium
 * Netherrack
-* Nether Bricks (+ Block + Slabs + Stairs + Fence)
+* Nether Bricks (+ Block + Slabs + Stairs + Fence + Wall)
 * Quartz + Block + Slab + Stairs
 * Chiseled Quartz Block
 * Pillar Quartz Block
-* Smooth Quartz Block
+* Smooth Quartz Block + Slab + Stairs
 * Soul Sand
 * Glowstone + Block
 * Magma Block
-* Red Nether Brick
+* Red Nether Brick + Slab + Stair + Wall
 
 ----------------
 ## Redstone
@@ -235,13 +255,13 @@ Anything relating to stone
 * Mossy Cobblestone + Wall
 * Stone Slab + Stair
 * Smooth Stone (+ Slab, Stair)
-* Granite
-* Polished Granite
-* Diorite
-* Polished Diorite
-* Andesite
-* Polished Andesite
-* Deepslate
+* Granite + Slab + Stair + Wall
+* Polished Granite + Slab + Stair
+* Diorite + Slab + Stair + Wall
+* Polished Diorite + Slab + Stair
+* Andesite + Slab + Stair + Wall
+* Polished Andesite + Slab + Stair
+* Deepslate + Slab + Stair + Wall
 * Cobbled Deepslate
 * Polished Deepslate
 * Calcite
@@ -257,25 +277,27 @@ Anything relating to stone
 * 4x Waxed Cut Copper Stairs
 * 4x Waxed Cut Copper Slab
 * Sponge + Wet Variant
-* Sandstone + Slab + Stairs
+* Sandstone + Slab + Stairs + Wall
 * Chiseled Sandstone
 * Cut Sandstone + Slab + Stairs
-* Smooth Sandstone
-* Brick + Block + Slab + Stairs
+* Smooth Sandstone + Slab + Stairs
+* Brick + Block + Slab + Stairs + Wall
 * Red Sand
-* (Cut) Red Sandstone (+ Slab + Stairs)
-* Smooth Red Sandstone
+* (Cut) Red Sandstone (+ Slab + Stairs + Wall for non-cut)
+* Smooth Red Sandstone + Slab + Stairs
 * Chiseled Red Sandstone
-* Stone Bricks (+ Slab, Stairs) + Mossy + Cracked + Chiseled
+* Stone Bricks (+ Slab, Stairs, Wall) + Mossy (+ Slab, Stairs, Wall) + Cracked + Chiseled
 * Obsidian
 * Torch
+* Lantern
 * Ladder
 * Snow + Ball + Block
 * Ice + Packed + Blue
 * Clay + Block
 * Iron Bars
-* Prismarine + Bricks + Dark (+ Stairs, Slabs)
+* Prismarine (Wall) + Bricks + Dark (+ Stairs, Slabs)
 * Sea Lantern
+* Dried Kelp Block
 
   -> Utilities
 * Chest
@@ -286,7 +308,20 @@ Anything relating to stone
 * Jukebox
 * Enchanting Table
 * Cauldron
-* Anvil (3x)
+* Anvil (4x)
+* Barrel
+* Bell
+* Blast Furnace
+* Campfire
+* Cartography Table
+* Composter
+* Fletching Table
+* Grindstone
+* Lectern
+* Loom
+* Smoker
+* Smithing Table
+* Stonecutter
 
 ----------------
 ## Tools
@@ -316,6 +351,7 @@ Anything relating to tools
 * Horse Armor
 * Lead
 * Nametag
+* Scaffolding
 
 ----------------
 ## Valuables
@@ -327,12 +363,22 @@ Anything that's very rare
 * Dragon Egg
 * Beacon
 * Nether Star
+* End Crystal
+* Totem of Undying
+* Heart of the Sea
+* Conduit
+* Music Discs
 
 ----------------
 ## Weapons
 Anything relating to weapons
 
 * Bow
+* Arrow + Tipped + Spectral
+* Shield
+* Trident
+* Sword
+* Crossbow
 
 ----------------
 ## Wood

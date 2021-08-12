@@ -1,7 +1,23 @@
 # Minecraft Sorting System
 
 ## Table of Contents
+* [Armor](#armor)
+* [Brewing](#brewing)
+* [Books](#books)
+* [Bulk Storage](#bulk-storage)
+* [Colorful](#colorful)
+* [End](#end)
+* [Food](#food)
+* [Minerals](#minerals)
+* [Mob Drops](#mob-drops)
 * [Nature](#nature)
+* [Nether](#nether)
+* [Redstone](#redstone)
+* [Stone](#stone)
+* [Tools](#tools)
+* [Valuables](#valuables)
+* [Weapons](#weapons)
+* [Wood](#wood)
 
 
 ----------------

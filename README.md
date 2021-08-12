@@ -20,6 +20,11 @@ Anything relating to brewing
 * Nether Wart
 * Nether Wart Block
 * Brewing Stand
+* Water Bottle
+* Glass Bottle
+* Fermented Spider Eye
+* Blaze Powder
+* Glistering Melon Slice
 
 ----------------
 ## Books
@@ -27,6 +32,7 @@ Anything relating to books
 
 * Bookshelf
 * Books
+* Paper
 * Written Books
 * Book and Quill
 * All Enchanted Books
@@ -46,6 +52,8 @@ Anything that is saved in massive quantities
 ## Colorful
 Anything that comes in dye-color variants
 
+* 16x Dye
+* 16x Bed
 * Glass + Pane
 * Tinted Glass
 * 16x Glass + Panes
@@ -72,15 +80,27 @@ Anything relating to food
 * Bowl + Mushroom Stew + Suspicious Stew
 * Bread
 * Porkchop + Cooked
+* Cod + Salmon (+ Cooked)
+* Tropical Fish + Pufferfish
+* Cake
+* Cookie
+* Melon Slice
+* Beef + Cooked
+* Chicken + Cooked
+* Potato + Baked + Poisonous
+* Carrot + Golden
+* Pumpkin Pie
+* Rabbit + Cooked + Stew
+* Mutton + Cooked
 
 ----------------
 ## Minerals
 Anything relating to minerals
 
 * Coal + Charcoal + Ore (+ Deepslate Variant) + Block
-* Iron + Ore (+ Deepslate Variant) + Raw Block + Block
+* Iron + Ore (+ Deepslate Variant) + Raw Block + Block + Nugget
 * Copper + Ore (+ Deepslate Variant) + Raw Block
-* Gold + Ore (+ Nether, Gilded & Deepslate Variant) + Raw Block + Block
+* Gold + Ore (+ Nether, Gilded & Deepslate Variant) + Raw Block + Block + Nugget
 * Redstone Ore (+ Deepslate Variant)
 * Emerald + Ore (+ Deepslate Variant)
 * Lapis + Ore (+ Deepslate Variant) + Block
@@ -93,6 +113,10 @@ Anything relating to mob drops
 
 ---> Friendly
 * Feather
+* Leather
+* Egg
+* Ink Sac
+* Rabbit's Foot + Hide
 
 ---> Hostile
 * Arrow
@@ -100,6 +124,17 @@ Anything relating to mob drops
 * Slimeball + Block
 * String
 * Gunpowder
+* Sugar
+* Rotten Flesh
+* Ender Pearl
+* Blaze Rod
+* Ghast Tear
+* Spider Eye
+* Magma Cream
+* Eye Of Ender
+* Prismarine Shards + Crystal
+
+---> Skulls
 
 ----------------
 ## Nature
@@ -120,8 +155,8 @@ Anything relating to nature
 * Wheat
 * Cactus
 * Sugar Cane
-* Pumpkin + Carved + Jack o'
-* Melon
+* Pumpkin + Carved + Jack o' + Seeds
+* Melon + Seeds
 * Vines
 * Lily Pad
 * Mushroom Stem
@@ -131,6 +166,8 @@ Anything relating to nature
 * Sunflower, Lilac, Rose Bush, Peony
 * Seed
 * Flint
+* Bone Meal
+* Cocoa Bean
 
 ----------------
 ## Nether
@@ -139,13 +176,13 @@ Anything relating to the Nether dimension
 * Crimson Nylium
 * Warped Nylium
 * Netherrack
-* Nether Bricks (+ Slabs + Stairs + Fence)
+* Nether Bricks (+ Block + Slabs + Stairs + Fence)
 * Quartz + Block + Slab + Stairs
 * Chiseled Quartz Block
 * Pillar Quartz Block
 * Smooth Quartz Block
 * Soul Sand
-* Glowstone
+* Glowstone + Block
 * Magma Block
 * Red Nether Brick
 
@@ -167,6 +204,12 @@ Anything relating to redstone
 * Hopper
 * Dropper
 * Observer
+* Redstone
+* Redstone Torch
+* Redstone Lamp
+* Redstone Repeater
+* Redstone Comparator
+* Daylight Sensor
 
 ----------------
 ## Stone
@@ -202,7 +245,7 @@ Anything relating to stone
 * Chiseled Sandstone
 * Cut Sandstone + Slab + Stairs
 * Smooth Sandstone
-* Brick + Slab + Stairs
+* Brick + Block + Slab + Stairs
 * Red Sand
 * (Cut) Red Sandstone (+ Slab + Stairs)
 * Smooth Red Sandstone
@@ -211,9 +254,9 @@ Anything relating to stone
 * Obsidian
 * Torch
 * Ladder
-* Snow + Block
+* Snow + Ball + Block
 * Ice + Packed + Blue
-* Clay
+* Clay + Block
 * Iron Bars
 * Prismarine + Bricks + Dark (+ Stairs, Slabs)
 * Sea Lantern
@@ -238,6 +281,25 @@ Anything relating to tools
 * Shovel
 * Hoe
 * Flint & Steel
+* Bucket (5 Fish in Bucket + Water + Lava + Milk + Powder Snow
+* Minecart (Chest + Furnace + TNT + Hopper)
+* Saddle
+* Compass
+* Fishing Rod
+* Clock
+* Map
+* Shears
+* Empty Map
+* Bottle O' Enchanting
+* Fire Charge
+* Item Frame
+* Carrot On A Stick
+* Firework Rocket (3 Types)
+* Firework Star
+* Armor Stand
+* Horse Armor
+* Lead
+* Nametag
 
 ----------------
 ## Valuables (NOT AUTOMATED)
@@ -248,6 +310,7 @@ Anything that's very rare
 * Shulker Shell
 * Dragon Egg
 * Beacon
+* Nether Star
 
 ----------------
 ## Weapons
@@ -259,7 +322,7 @@ Anything relating to weapons
 ## Wood
 Anything relating to wood
 
-* 6x Wood Types (Log, Wood, Stripped Log, Stripped Wood,  Planks, Slab, Stairs, Pressure Plate, Fence, Fence Gate, Door, Trapdoor, Button, Sign)
+* 6x Wood Types (Log, Wood, Stripped Log, Stripped Wood,  Planks, Slab, Stairs, Pressure Plate, Fence, Fence Gate, Door, Trapdoor, Button, Sign, Boat)
 * 2x Nether Wood Types (Stem, Hyphae, Stripped Stem, Stripped Hypae, Planks, Slab, Stairs)
 * Stick
 * Painting

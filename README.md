@@ -290,7 +290,6 @@ Anything relating to stone
 * Obsidian
 * Torch
 * Lantern
-* Ladder
 * Snow + Ball + Block
 * Ice + Packed + Blue
 * Clay + Block
@@ -351,6 +350,7 @@ Anything relating to tools
 * Horse Armor
 * Lead
 * Nametag
+* Painting
 * Scaffolding
 
 ----------------
@@ -387,4 +387,4 @@ Anything relating to wood
 * 6x Wood Types (Log, Wood, Stripped Log, Stripped Wood,  Planks, Slab, Stairs, Pressure Plate, Fence, Fence Gate, Door, Trapdoor, Button, Sign, Boat)
 * 2x Nether Wood Types (Stem, Hyphae, Stripped Stem, Stripped Hypae, Planks, Slab, Stairs)
 * Stick
-* Painting
+* Ladder

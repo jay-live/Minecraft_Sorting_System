@@ -132,6 +132,7 @@ Anything relating to minerals
 * Emerald + Ore (+ Deepslate Variant)
 * Lapis + Ore (+ Deepslate Variant) + Block
 * Diamond + Ore (+ Deepslate Variant) + Block
+* Ancient Debris + Netherite + Block + Scrap
 * Nether Quartz Ore
 
 ----------------
@@ -145,6 +146,7 @@ Anything relating to mob drops
 * Ink Sac
 * Rabbit's Foot + Hide
 * Scute
+* Honey Block + Comb Block + Bottle + Comb
 
 ---> Hostile
 * Bone + Block
@@ -204,6 +206,8 @@ Anything relating to nature
 * Turtle Egg
 * Sea Pickle
 * Bamboo
+* Beehive
+* Bee Nest
 
 ----------------
 ## Nether
@@ -221,6 +225,18 @@ Anything relating to the Nether dimension
 * Glowstone + Block
 * Magma Block
 * Red Nether Brick + Slab + Stair + Wall
+* Basalt + Smooth
+* Nether Sprouts
+* Warped Fungus
+* Warped Roots
+* Warped Wart
+* Shroomlight
+* Crimson Fungus
+* Crimson Roots
+* Soul Soil
+* Weeping Vines
+* Twisting Vines
+* Blackstone (+ Slab + Stairs + Wall)
 
 ----------------
 ## Redstone
@@ -235,6 +251,8 @@ Anything relating to redstone
 * Lever
 * Stone Pressure Plate
 * Iron & Gold Pressure Plate
+* 8x Wooden Pressure Plate
+* 8x Wood Button
 * Stone Button
 * Iron Door + Trapdoor
 * Hopper
@@ -246,6 +264,7 @@ Anything relating to redstone
 * Redstone Repeater
 * Redstone Comparator
 * Daylight Sensor
+* Target
 
 ----------------
 ## Stone
@@ -288,8 +307,9 @@ Anything relating to stone
 * Chiseled Red Sandstone
 * Stone Bricks (+ Slab, Stairs, Wall) + Mossy (+ Slab, Stairs, Wall) + Cracked + Chiseled
 * Obsidian
-* Torch
-* Lantern
+* Crying Obsidian
+* Torch + Soul Variant
+* Lantern + Soul Variant
 * Snow + Ball + Block
 * Ice + Packed + Blue
 * Clay + Block
@@ -321,6 +341,8 @@ Anything relating to stone
 * Smoker
 * Smithing Table
 * Stonecutter
+* Respawn Anchor
+* Lodestone
 
 ----------------
 ## Tools
@@ -352,13 +374,12 @@ Anything relating to tools
 * Nametag
 * Painting
 * Scaffolding
+* Warped Fungus On A Stick
 
 ----------------
 ## Valuables
 Anything that's very rare
 
-* Ancient Debris
-* Netherite Block
 * Shulker Shell
 * Dragon Egg
 * Beacon
@@ -384,7 +405,7 @@ Anything relating to weapons
 ## Wood
 Anything relating to wood
 
-* 6x Wood Types (Log, Wood, Stripped Log, Stripped Wood,  Planks, Slab, Stairs, Pressure Plate, Fence, Fence Gate, Door, Trapdoor, Button, Sign, Boat)
-* 2x Nether Wood Types (Stem, Hyphae, Stripped Stem, Stripped Hypae, Planks, Slab, Stairs)
+* 6x Wood Types (Log, Wood, Stripped Log, Stripped Wood,  Planks, Slab, Stairs, Fence, Fence Gate, Door, Trapdoor, Sign, Boat)
+* 2x Nether Wood Types (Stem, Hyphae, Stripped Stem, Stripped Hypae, Planks, Slab, Stairs, Door, Fence, Fence gate, Sign, Trapdoor)
 * Stick
 * Ladder

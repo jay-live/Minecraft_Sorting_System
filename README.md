@@ -84,6 +84,7 @@ Anything that comes in colored variants
 * 16x Banner + Patterns + Different Banners
 * 5x Coral Block + Dead
 * 10x Coral + Dead
+* Candle + 16x Variants
 
 ----------------
 ## End
@@ -143,7 +144,7 @@ Anything relating to mob drops
 * Feather
 * Leather
 * Egg
-* Ink Sac
+* Ink Sac + Glow
 * Rabbit's Foot + Hide
 * Scute
 * Honey Block + Comb Block + Bottle + Comb
@@ -176,8 +177,8 @@ Anything relating to nature
 * Mycelium
 * Podzol
 * Rooted Dirt
-* 6x Sapling
-* 7x Leaves
+* 6x Sapling + Azelea + Flowering
+* 6x Leaves + Azelea + Flowering
 * Cobweb
 * Grass
 * Fern
@@ -208,6 +209,12 @@ Anything relating to nature
 * Bamboo
 * Beehive
 * Bee Nest
+* Big Dripleaf
+* Small Dripleaf
+* Glow Berries
+* Glow Lichen
+* Hanging Roots
+* Moss Block + Carpet
 
 ----------------
 ## Nether
@@ -216,8 +223,8 @@ Anything relating to the Nether dimension
 * Crimson Nylium
 * Warped Nylium
 * Netherrack
-* Nether Bricks (+ Block + Slabs + Stairs + Fence + Wall)
-* Quartz + Block + Slab + Stairs
+* Nether Bricks (+ Block + Slabs + Stairs + Fence + Wall + Chiseled + Cracked)
+* Quartz + Block + Slab + Stairs + Bricks
 * Chiseled Quartz Block
 * Pillar Quartz Block
 * Smooth Quartz Block + Slab + Stairs
@@ -225,7 +232,7 @@ Anything relating to the Nether dimension
 * Glowstone + Block
 * Magma Block
 * Red Nether Brick + Slab + Stair + Wall
-* Basalt + Smooth
+* Basalt + Smooth + Polished
 * Nether Sprouts
 * Warped Fungus
 * Warped Roots
@@ -237,6 +244,8 @@ Anything relating to the Nether dimension
 * Weeping Vines
 * Twisting Vines
 * Blackstone (+ Slab + Stairs + Wall)
+* Polished Blackstone (+ Slab + Stairs + Wall + Chiseled)
+* Polished Blackstone Bricks (+ Slab + Stairs + Wall + Cracked)
 
 ----------------
 ## Redstone
@@ -252,8 +261,10 @@ Anything relating to redstone
 * Stone Pressure Plate
 * Iron & Gold Pressure Plate
 * 8x Wooden Pressure Plate
+* Polished Blackstone Pressure Plate
 * 8x Wood Button
 * Stone Button
+* Polished Blackstone Button
 * Iron Door + Trapdoor
 * Hopper
 * Dropper
@@ -280,13 +291,14 @@ Anything relating to stone
 * Polished Diorite + Slab + Stair
 * Andesite + Slab + Stair + Wall
 * Polished Andesite + Slab + Stair
-* Deepslate + Slab + Stair + Wall
-* Cobbled Deepslate
-* Polished Deepslate
+* Deepslate + Chiseled
+* Cobbled Deepslate + Slab + Stair + Wall
+* Deepslate Bricks + Slab + Stair + Wall + Cracked
+* Deepslate Tiles + Slab + Stair + Wall + Cracked
+* Polished Deepslate + Slab + Stair + Wall
 * Calcite
 * Tuff
-* Dripstone Block
-* Amethyst Block
+* Dripstone Block + Pointed Dripstone
 * 4x Copper Block
 * 4x Cut Copper Block
 * 4x Cut Copper Stairs
@@ -310,6 +322,7 @@ Anything relating to stone
 * Crying Obsidian
 * Torch + Soul Variant
 * Lantern + Soul Variant
+* Chain
 * Snow + Ball + Block
 * Ice + Packed + Blue
 * Clay + Block
@@ -317,6 +330,7 @@ Anything relating to stone
 * Prismarine (Wall) + Bricks + Dark (+ Stairs, Slabs)
 * Sea Lantern
 * Dried Kelp Block
+* Amethyst Block + 4 Bud Types + Shard
 
   -> Utilities
 * Chest
@@ -331,7 +345,7 @@ Anything relating to stone
 * Barrel
 * Bell
 * Blast Furnace
-* Campfire
+* Campfire + Soul Variant
 * Cartography Table
 * Composter
 * Fletching Table
@@ -343,6 +357,7 @@ Anything relating to stone
 * Stonecutter
 * Respawn Anchor
 * Lodestone
+* Lightning Rod
 
 ----------------
 ## Tools
@@ -353,7 +368,7 @@ Anything relating to tools
 * Shovel
 * Hoe
 * Flint & Steel
-* Bucket (5 Fish in Bucket + Water + Lava + Milk + Powder Snow
+* Bucket (5 Fish in Bucket + Water + Lava + Milk + Powder Snow)
 * Minecart (Chest + Furnace + TNT + Hopper)
 * Saddle
 * Compass
@@ -364,7 +379,7 @@ Anything relating to tools
 * Empty Map
 * Bottle O' Enchanting
 * Fire Charge
-* Item Frame
+* Item Frame + Glow
 * Carrot On A Stick
 * Firework Rocket (3 Types)
 * Firework Star
@@ -375,6 +390,8 @@ Anything relating to tools
 * Painting
 * Scaffolding
 * Warped Fungus On A Stick
+* Bundle
+* Spyglass
 
 ----------------
 ## Valuables
